@@ -1,5 +1,4 @@
-package OutputStream;
-
+package OutPutStream;
 public class _Warning extends Print{
 
     private String open_symbol_warning = " ⚠️  ";

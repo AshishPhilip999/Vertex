@@ -1,5 +1,4 @@
-package OutputStream;
-
+package OutPutStream;
 public class Print implements Printable {
 
     protected Color default_color = Color.RESET;

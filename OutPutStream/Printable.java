@@ -1,4 +1,4 @@
-package OutputStream;
+package OutPutStream;
 
 public interface Printable{
     public void print(String message); // To Print message to console
