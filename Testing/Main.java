@@ -1,6 +1,6 @@
 package Testing;
 
-import OutputStream.*;
+import OutPutStream.*;
 
 public class Main{
 

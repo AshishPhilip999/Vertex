@@ -1,4 +1,4 @@
-package OutputStream;
+package OutPutStream;
 
 public class _Error extends Print {
 
