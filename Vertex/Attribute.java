@@ -2,5 +2,6 @@ package Vertex;
 
 public class Attribute{
     
-    private Attribute[] attributes;
+    private String label;
+    private Value[] values;
 }
